@@ -15,7 +15,6 @@ author:  # change following line to your infomation.
   first_name: Simon  # Be used at index page about me section.
   last_name: Rosas  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: curenay  # Leave blank if you don't have now
   linkedin_id: simonrosas # Leave blank if you don't have now
   facebook_username: curenay  # Leave blank if you don't have now
   email: curenay@gmail.com  # Leave blank if you don't have now
@@ -47,7 +46,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: of  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
