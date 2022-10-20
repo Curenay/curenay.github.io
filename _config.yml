@@ -4,7 +4,7 @@
 title: Simon Rosas
 description: Resume Simon Rosas 
 keywords: github,Devops, developer, design, web Page
-baseurl: homepage
+baseurl: /
 url: https://curenay.github.io/
 # url: http://127.0.0.1:4000
 img_path: /homepage/static/assets/img/blog
