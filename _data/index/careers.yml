@@ -7,19 +7,19 @@
     detail: In charge of adding security to modules developed in VB6 and making some modifications to applications developed in Java with NetBeans, both with Oracle database.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Sept. 2022
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Programmer Analyst
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: False
 
 - name:
-    detail: Company B
+    detail: Cruz Verde
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: In charge of carrying out a Workflow project for Billing and Workflow for the Purchase Order system, developed in C# Visual Studio 2015 and Framework 5 with Oracle Database, as well as creating a Windows Service for Automatic Reporting for the Holding Developed in C# with Oracle.
     i18n: company_b_desc
   date:
     detail: Jun. 2015
