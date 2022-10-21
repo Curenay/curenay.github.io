@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Red Salud
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: In charge of adding security to modules developed in VB6 and making some modifications to applications developed in Java with NetBeans, both with Oracle database.
     i18n: company_a_desc
   date:
     detail: Apr. 2016
