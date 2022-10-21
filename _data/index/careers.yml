@@ -10,7 +10,7 @@
     detail: Sept. 2022
     i18n: company_a_date
   job:
-    detail: Programmer Analyst
+    detail: Developer Analyst
     i18n: company_a_job
   icon: fa-plus-square
   present: False
@@ -22,9 +22,37 @@
     detail: In charge of carrying out a Workflow project for Billing and Workflow for the Purchase Order system, developed in C# Visual Studio 2015 and Framework 5 with Oracle Database, as well as creating a Windows Service for Automatic Reporting for the Holding Developed in C# with Oracle.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Dic. 2019
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Developer Analyst
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: ThyssenKrupp
+    i18n: company_b
+  desc:
+    detail: Responsible for maintaining VB6 applications with Sql Server Database.
+    i18n: company_b_desc
+  date:
+    detail: Nov. 2017
+    i18n: company_b_date
+  job:
+    detail: Developer Analyst
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Difarma 
+    i18n: company_b
+  desc:
+    detail: Responsible for adding expiration date to applications for Radio frequency and applications in Vb6, Create application to eliminate product failures, they are loaded from Excel file using the following technologies: C#, Oracle., Creation of Windows service for reports in C#, Oracle
+    i18n: company_b_desc
+  date:
+    detail: Dic. 2016
+    i18n: company_b_date
+  job:
+    detail: Developer Analyst
     i18n: company_b_job
   icon: fa-plus-square
