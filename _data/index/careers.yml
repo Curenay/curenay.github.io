@@ -13,7 +13,6 @@
     detail: Developer Analyst
     i18n: company_a_job
   icon: fa-plus-square
-  present: False
 
 - name:
     detail: Cruz Verde
