@@ -46,7 +46,7 @@
     detail: Difarma 
     i18n: company_d
   desc:
-    detail: Responsible for adding expiration date to applications for Radio frequency and applications in Vb6, Create application to eliminate product failures, they are loaded from Excel file using the following technologies: C#, Oracle., Creation of Windows service for reports in C#, Oracle
+    detail: Responsible for adding expiration date to applications for Radio frequency and applications in Vb6, Create application to eliminate product failures, Creation of Windows service for reports.
     i18n: company_d_desc
   date:
     detail: Dic. 2016
