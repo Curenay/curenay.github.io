@@ -26,9 +26,9 @@
   },
   "career":{
     "my_career": "My Career",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
+    "company_a": "Nextcode",
+    "company_a_desc": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
+    "company_a_date": "Apr. 2016",
     "nextcode_job": "Python Developer",
     "netease": "Netease Game",
     "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
