@@ -18,14 +18,3 @@
   tpl: skills.html
   css: team
 
-- id: projects
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
-  css: project
-
-- id: links
-  i18n: nav.link
-  name: Links
-  tpl: links.html
-  css: contact
