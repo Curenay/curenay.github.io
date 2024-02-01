@@ -1,10 +1,4 @@
-/*
 
-TemplateMo 560 Astro Motion
-
-https://templatemo.com/tm-560-astro-motion
-
-*/
 
 html, body, .page-container {
     height: 100%;
@@ -80,11 +74,13 @@ h2 {
     min-width: 100%;
     min-height: 100%;
     transform: translateX(-50%) translateY(-50%);
-    z-index: -100;
-    background-image: url(../img/tm-astro-bg.jpg);
+    filter: grayscale(10);
+    z-index: -100;    
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    rgba(0,194,203,0.5));
+    background-color: rgb(15, 14, 14) !important;
 }
 
 #tm-nav {
@@ -613,8 +609,6 @@ figure.effect-julia:hover p {
 }
 
 /* Preloader 
-	https://ihatetomatoes.net/create-custom-preloading-screen/
-*/
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
