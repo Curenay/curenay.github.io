@@ -58,7 +58,6 @@
         <ul class="cd-hero-slider mb-0 py-5">
           <li class="px-3" data-page-no="1">
             <div class="position-relative page-width-1 page-right tm-border-top tm-border-bottom">
-
                 <div class="intro-left tm-bg-dark">
                   <h2 class="mb-4">!Bienvenido a Latinos en Australia!</h2>
                   <p class="mb-4">
@@ -69,20 +68,10 @@
                     [Si tienes enlaces para compartir, <a rel="sponsored" href="https://wa.me/+61451724153/?text=Info sobre Web" target="_blank" >Contáctame</a> y podríamos incluirlos en esta Web o Si necesitas una Web]
                   </p>
                 </div>
-                <!--div class="intro-right">
-                  <img src="img/home-img-1.jpg" alt="Image" class="img-fluid intro-img-1">
-                  <img src="img/home-img-2.jpg" alt="Image" class="img-fluid intro-img-2">
-                </!--div-->
                 <div class="circle intro-circle-1"></div>
                 <div class="circle intro-circle-2"></div>
                 <div class="circle intro-circle-3"></div>
-                <div class="circle intro-circle-4"></div>
-
-              <!--div class="text-center">
-                <a href="#0" data-page-no="2" class="btn btn-primary tm-intro-btn tm-page-link">
-                  View Gallery
-                </a>
-              </div!-->            
+                <div class="circle intro-circle-4"></div>     
             </div>            
           </li>
           <li data-page-no="2">
@@ -195,8 +184,7 @@
                 <p class="mb-0">2. <a target="_blank" href="https://www.ato.gov.au/individuals/tax-file-number/apply-for-a-tfn/">TFN (Tax File Number) - Número de Identificación Fiscal</a></p>
                  <p class="mb-0">3. <a target="_blank" href="https://blog.remitly.com/es/finanzas/como-abrir-una-cuenta-bancaria-en-australia-una-guia-para-no-residentes/">Cuenta Bancaria - Consejos para Abrir una Cuenta Bancaria en Australia</a></p>
                 <p class="mb-0">4. <a target="_blank" href="https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio/10221/34221/1/El_sistema_de_salud_en_Australia.pdf">Seguro de Salud - Información sobre el Sistema de Salud de Medicare en Australia</a></p>
-                </p>
-               
+                </p>               
               </div>              
             </div>
           </li>
