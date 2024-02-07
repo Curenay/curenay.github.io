@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latinos en Australia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/slick.css" type="text/css" /> 
+    <link rel="stylesheet" href="css/templatemo-style.css">
+
+</head>
+<body>
+    <video autoplay muted loop id="bg-video">
+        <source src="video/Kan6.mp4" type="video/mp4">
+    </video>
+    <div class="page-container">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="cd-slider-nav">
+              <nav class="navbar navbar-expand-lg" id="tm-nav">
+                <a class="navbar-brand" href="#"></a>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-supported-content" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbar-supported-content">
+                    <ul class="navbar-nav mb-2 mb-lg-0">
+                      <li class="nav-item selected">
+                        <a class="nav-link" aria-current="page" href="#0" data-no="1">Inicio</a>
+                        <div class="circle"></div>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#0" data-no="2">Trabajos</a>
+                        <div class="circle"></div>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#0" data-no="3">Hospedajes</a>
+                        <div class="circle"></div>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#0" data-no="4">Certificados</a>
+                        <div class="circle"></div>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#0" data-no="5">Documentos</a>
+                        <div class="circle"></div>
+                      </li>                      
+                    </ul>
+                  </div>
+              </nav>
+            </div>
+          </div>          
+        </div>        
+      </div>      
+      <div class="container-fluid tm-content-container">
+        <ul class="cd-hero-slider mb-0 py-5">
+          <li class="px-3" data-page-no="1">
+            <div class="position-relative page-width-1 page-right tm-border-top tm-border-bottom">
+
+                <div class="intro-left tm-bg-dark">
+                  <h2 class="mb-4">!Bienvenido a Latinos en Australia!</h2>
+                  <p class="mb-4">
+                    En este rincón virtual, te traigo enlaces geniales para la comunidad latina en Australia. 
+                    Desde chambas hasta lugares acogedores para quedarte, he reunido info útil que te hará la vida más fácil en este país
+                  </p>
+                  <p class="mb-0">
+                    [Si tienes enlaces para compartir, <a rel="sponsored" href="https://wa.me/+61451724153/?text=Info sobre Web" target="_blank" >Contáctame</a> y podríamos incluirlos en esta Web o Si necesitas una Web]
+                  </p>
+                </div>
+                <!--div class="intro-right">
+                  <img src="img/home-img-1.jpg" alt="Image" class="img-fluid intro-img-1">
+                  <img src="img/home-img-2.jpg" alt="Image" class="img-fluid intro-img-2">
+                </!--div-->
+                <div class="circle intro-circle-1"></div>
+                <div class="circle intro-circle-2"></div>
+                <div class="circle intro-circle-3"></div>
+                <div class="circle intro-circle-4"></div>
+
+              <!--div class="text-center">
+                <a href="#0" data-page-no="2" class="btn btn-primary tm-intro-btn tm-page-link">
+                  View Gallery
+                </a>
+              </div!-->            
+            </div>            
+          </li>
+          <li data-page-no="2">
+            <div class="position-relative page-width-1 page-right tm-border-top tm-border-bottom">
+              <div class="circle intro-circle-1"></div>
+              <div class="circle intro-circle-2"></div>
+              <div class="circle intro-circle-3"></div>
+              <div class="circle intro-circle-4"></div>
+              <div class="tm-bg-dark content-pad">
+                <h2 class="mb-4">Oportunidades Laborales en Australia</h2>
+                <p class="mb-0">
+                  Utiliza este <a rel="sponsored" href="https://www.seek.com.au/career-advice/article/free-resume-template" target="_blank" >[Template de Resumen]</a> para estructurar tu aplicación de manera efectiva.
+                 <p>&#x2022; Adapta cada resumen según el trabajo específico al que estás postulando. La personalización aumenta tus posibilidades de éxito.</p>
+                  <p>&#x2022; Siéntete libre de omitir secciones no relevantes para destacar tus habilidades más importantes.</p>  
+                  <p>&#x2022; Considera dejar tu aplicación de forma presencial. Esta acción no solo muestra tu compromiso, sino que también crea una conexión personal.</p> 
+                </p>                
+                <p class="mb-4">                  
+                    <p class="mb-0"> 1.<a target="_blank" href="https://jobsearch.gov.au/">Jobsearch</a></p>
+                    <p class="mb-0"> 2.<a target="_blank" href="https://www.seek.com.au/">Seek</a></p>
+                    <p class="mb-0"> 3.<a target="_blank" href="https://au.indeed.com/">Indeed</a></p>
+                    <p class="mb-0"> 4.<a target="_blank" href="https://au.jora.com/">Jora</a></p>
+                    <p class="mb-0"> 5.<a target="_blank" href="https://www.adzuna.com.au/">Adzuna</a></p>
+                    <p class="mb-0"> 6.<a target="_blank" href="https://www.careerone.com.au/">Careerone</a></p>
+                    <p class="mb-0"> 7.<a target="_blank" href="https://www.workforceaustralia.gov.au/">Work Force</a></p>
+                    <p class="mb-0"> 8.<a target="_blank" href="http://www.jobsdb.com/">Jobsdb</a></p>
+                    <p class="mb-0"> 9.<a target="_blank" href="https://www.gumtree.com.au/">Gumtree</a></p>
+                    <p class="mb-0"> 10.<a target="_blank" href="https://www.adecco.com.au/">Adecco</a></p>
+                    <p class="mb-0"> 11.<a target="_blank" href="https://www.jobseeker.org.au/">jobseeker</a></p>
+                    <p class="mb-0"> 12.<a target="_blank" href="https://au.gradconnection.com/">Grad connection</a></p>
+                    <p class="mb-0"> 13.<a target="_blank" href="https://www.simplyhired.com/">Simplyhired </a></p>
+                    <p class="mb-0"> 14.<a target="_blank" href="https://www.ethicaljobs.com.au/">Ethicaljobs</a></p>
+                    <p class="mb-0"> 15.<a target="_blank" href="https://www.zoom2u.com.au/">Zoom2u</a></p>
+                    <p class="mb-0"> 16.<a target="_blank" href="https://www.bluecollar.com.au/">Bluecollar</a></p>
+                    <p class="mb-0"> 17.<a target="_blank" href="https://www.randstad.com.au/">Randstad</a></p>
+                    <p class="mb-0"> 18.<a target="_blank" href="https://www.hays.com.au/">Hays</a></p>            
+                </p>
+                <p>
+                  Se sugiere realizar una visita de inspección al lugar antes de concretar el acuerdo. Posteriormente, 
+                  el trato puede formalizarse de manera verbal o escrita. Por lo general, se requiere el pago de un depósito, 
+                  el cual suele ser reembolsado al finalizar el contrato, además del pago del primer mes por adelantado.
+                </p>
+              </div>              
+            </div>
+          </li>
+          <li data-page-no="3" class="px-3">
+            <div class="position-relative page-width-1 page-right tm-border-top tm-border-bottom">
+              <div class="circle intro-circle-1"></div>
+              <div class="circle intro-circle-2"></div>
+              <div class="circle intro-circle-3"></div>
+              <div class="circle intro-circle-4"></div>
+              <div class="tm-bg-dark content-pad">
+                <h2 class="mb-4">Descubre Tu Hogar en Australia</h2>
+                <p class="mb-4">
+                <p class="mb-4">Si buscas vivir con personas de la comunidad latina, te recomendamos explorar grupos de Facebook específicos de tu ciudad, como 'Latinos en Melbourne', 'Chilenos en Melbourne', entre otros.<br></p>
+                 <p class="mb-0"> 1.<a target="_blank" href="https://flatmates.com.au">Flatmates</a></p>
+                 <p class="mb-0"> 2.<a target="_blank" href="https://www.unilodge.com.au">Unilodge</a></p>
+                 <p class="mb-0"> 3.<a target="_blank" href="https://spacehotel.com.au">Spacehotel</a></p>
+                 <p class="mb-0"> 4.<a target="_blank" href="https://www.scape.com.au">Scape</a></p>
+                 <p class="mb-0"> 5.<a target="_blank" href="https://www.journalstudentliving.com.au">Journalstudentliving</a></p>
+                 <p class="mb-0"> 6.<a target="_blank" href="https://iglu.com.au">Iglu</a></p>
+                 <p class="mb-0"> 7.<a target="_blank" href="https://amberstudent.com">Amberstudent</a></p>
+                 <p class="mb-0"> 8.<a target="_blank" href="https://www.universityliving.com">Universityliving</a></p>
+                 <p class="mb-0"> 9.<a target="_blank" href="https://www.student.com">Student</a></p>
+                 <p class="mb-0"> 10.<a target="_blank" href="https://sha.com.au">Sha</a></p>
+                 <p class="mb-0"> 11.<a target="_blank" href="https://www.realestate.com.au">Realestate</a></p>
+                 <p class="mb-0"> 12.<a target="_blank" href="https://www.realestateview.com.au">Realestateview</a></p>
+                 <p class="mb-0"> 13.<a target="_blank" href="https://rooms.net.au">Rooms</a></p>
+                 <p class="mb-0"> 14.<a target="_blank" href="https://ihouse.unimelb.edu.au/.../undergrad.../student-rooms">Unimelb</a></p>
+                </p>
+                <p>
+                  Se sugiere realizar una visita de inspección al lugar antes de concretar el acuerdo. Posteriormente, 
+                  el trato puede formalizarse de manera verbal o escrita. Por lo general, se requiere el pago de un depósito, 
+                  el cual suele ser reembolsado al finalizar el contrato, además del pago del primer mes por adelantado.
+                </p>
+              </div>              
+            </div>
+          </li>
+          <li data-page-no="4">
+            <div class="position-relative page-width-1 page-right tm-border-top tm-border-bottom">
+              <div class="circle intro-circle-1"></div>
+              <div class="circle intro-circle-2"></div>
+              <div class="circle intro-circle-3"></div>
+              <div class="circle intro-circle-4"></div>
+              <div class="tm-bg-dark content-pad">
+                <h2 class="mb-4">Certificados Esenciales para Trabajar en Australia: Asegura tu Empleabilidad con Estos Cursos Reconocidos</h2>
+                <p class="mb-4">
+                  <p class="mb-0">1. <a target="_blank" href="https://www.safework.nsw.gov.au/licences-and-registrations/white-cards">White Card (Tarjeta Blanca) Seguridad en la Construcción</a></p>
+                  <p class="mb-0">2. <a target="_blank" href="https://www.eot.edu.au/online-courses/RSA/">RSA (Responsible Service of Alcohol) - Certificado de Servicio Responsable de Alcohol</a></p>                  
+                  <p class="mb-0">3. <a target="_blank" href="https://www.eot.edu.au/online-courses/RSG/">RSG (Responsible Service of Gambling) - Certificado de Servicio Responsable de Juegos de Azar</a></p>                  
+                  <p class="mb-0">4. <a target="_blank" href="https://firstaid.redcross.org.au/provide-first-aid/">First Aid Certificate (Certificado de Primeros Auxilios)</a></p>                  
+                  <p class="mb-0">5. <a target="_blank" href="https://www.workingwithchildren.vic.gov.au/">Working with Children Check (Certificado de Trabajo con Niños)</a></p>                  
+                  <p class="mb-0">6. <a target="_blank" href="https://apsi.edu.au/courses/health-care-training/certificate-iii-in-individual-support/">Certificate III or IV in Aged Care or Disability Care (Certificado III o IV en Cuidado de Ancianos o Discapacidad)</a></p>                  
+                  <p class="mb-0">7. <a target="_blank" href="https://www.wta.edu.au/">Traffic Control Certificate (Certificado de Control de Tráfico)</a></p>
+                  <br><p>Debes asegurarte de que donde tomes el curso esté habilitado para la ciudad donde vives o vivirás y debes asegurarte de que sea una entidad acreditada por el gobierno. Aquí tienes el <a target="_blank" href="https://training.gov.au/Search/SearchOrganisation?IncludeSuperseded=0&IncludeDeleted=0&OrderBy=Relevance&State=AUS">enlace</a> para verificar si está acreditado o no.</p>
+                </p>
+              </div>              
+            </div>
+          </li>
+          <li data-page-no="5">
+            <div class="position-relative page-width-1 page-right tm-border-top tm-border-bottom">
+              <div class="circle intro-circle-1"></div>
+              <div class="circle intro-circle-2"></div>
+              <div class="circle intro-circle-3"></div>
+              <div class="circle intro-circle-4"></div>
+              <div class="tm-bg-dark content-pad">
+                <h2 class="mb-4">Documentos esenciales que necesitas para vivir y trabajar en Australia</h2>
+                <p class="mb-4">
+                <p class="mb-4">Desde obtener tu ABN y TFN hasta asegurar tu Medicare Card, Tu cuenta Bancaria estos documentos son fundamentales para tu vida diaria en Australia.<br></p>
+                <p class="mb-0">1. <a target="_blank" href="https://www.abr.gov.au/business-super-funds-charities/applying-abn">ABN (Australian Business Number) - Número de Negocio Australiano</a></p>
+                <p class="mb-0">2. <a target="_blank" href="https://www.ato.gov.au/individuals/tax-file-number/apply-for-a-tfn/">TFN (Tax File Number) - Número de Identificación Fiscal</a></p>
+                 <p class="mb-0">3. <a target="_blank" href="https://blog.remitly.com/es/finanzas/como-abrir-una-cuenta-bancaria-en-australia-una-guia-para-no-residentes/">Cuenta Bancaria - Consejos para Abrir una Cuenta Bancaria en Australia</a></p>
+                <p class="mb-0">4. <a target="_blank" href="https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio/10221/34221/1/El_sistema_de_salud_en_Australia.pdf">Seguro de Salud - Información sobre el Sistema de Salud de Medicare en Australia</a></p>
+                </p>
+               
+              </div>              
+            </div>
+          </li>
+        </ul>
+    </div>
+    <div class="container-fluid">
+      <footer class="row mx-auto tm-footer">
+        <div class="col-md-6 px-0">
+        </div>
+        <div class="col-md-6 px-0 tm-footer-right">
+          Contáctame <a rel="sponsored" href="https://wa.me/+61451724153/?text=Info sobre Web" target="_blank" class="tm-link-white">Curenay</a>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <div id="loader-wrapper">            
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+  </div>  
+  <script src="js/jquery-3.5.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/slick.js"></script>
+  <script src="js/templatemo-script.js"></script>
+</body>
+</html>
